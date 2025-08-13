@@ -2,18 +2,32 @@
 layout: page
 menu: false
 date: '2020-02-27 01:53:59'
-title: About
-description: Some description.
+title: Σχετικά
+description: Σχετικά με εμένα
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Νικολέττα Χαλδαιοπούλου" width="200">
 
-# About
+# Σχετικά
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Καλώς ήρθατε στο Echo Play!
+
+Είμαι η Νικολέττα Χαλδαιοπούλου, εργοθεραπεύτρια, απόφοιτη του ΤΕΙ Αθήνας και τελειόφοιτη του μεταπτυχιακού προγράμματος Cognitive Systems του Ανοικτού Πανεπιστημίου Κύπρου. Εδώ και αρκετά χρόνια εργάζομαι στο πλευρό παιδιών με αναπτυξιακές διαφοροποιήσεις, ακολουθώντας ένα παιδοκεντρικό και παιχνιώδες θεραπευτικό μονοπάτι.
+
+Η επαγγελματική μου πορεία εμπλουτίζεται συνεχώς μέσα από εξειδικευμένα σεμινάρια και προσεγγίσεις, όπως η Αισθητηριακή Ολοκλήρωση, Messy Play,  SCERTS και το γνωσιακό-συμπεριφορικό δράμα (CBD), που με βοηθούν να κατανοώ και να υποστηρίζω βαθύτερα τις μοναδικές ανάγκες κάθε παιδιού και οικογένειας.
+
+Το Echo Play γεννήθηκε ως ένας τόπος ανταλλαγής ιδεών, γνώσεων και εμπειριών – ένα σημείο συνάντησης για γονείς, θεραπευτές, εκπαιδευτικούς και όλους όσους αγαπούν το παιχνίδι και την πολυμορφία της ανθρώπινης ανάπτυξης.
+
+Εδώ θα βρείτε:
+
+* Βιβλιοπροτάσεις για μικρούς και μεγάλους (επιστημονικά, γονεϊκά και παιδικά βιβλία),
+* Infographics και αφίσες με σχετικές πληροφορίες,
+* Θεραπευτικές στιγμές, έργα των παιδιών και δημιουργίες εμπνευσμένες από το παιχνίδι,
+* Αναστοχασμούς πάνω στη σχέση, τη ρύθμιση και τη σύνδεση μέσα από τη θεραπευτική διαδικασία,
+* Ιδέες για αισθητηριακό και messy play,
+* Και, μελλοντικά, εργαστήρια και δράσεις που θα μας φέρουν ακόμα πιο κοντά!
+
+Εύχομαι η περιήγησή σας στο Echo Play να είναι πηγή έμπνευσης, ενδυνάμωσης και δημιουργικής ανακάλυψης.
+
+🎈 Καλώς ήρθατε στην παρέα μας!

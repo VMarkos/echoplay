@@ -11,7 +11,11 @@ layout: page
   }
 </style>
 
-<div class="container">
+<section class="hero no-padding center">
+
+	<div class="hero-image-container" style="background-image: url({{ site.hero }})"></div>
+
+<div class="hero-overlay">
 
   <h2>{{ site.translations.contact.title | default: "Talk to me" }}</h2>
 
@@ -40,6 +44,7 @@ layout: page
   </div>
 
 </div>
+</section>
 
 <script type="text/javascript">
 function adjust_textarea(h) {

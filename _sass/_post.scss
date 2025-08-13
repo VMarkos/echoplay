@@ -1,6 +1,7 @@
 .post {
   position: relative;
   top: rem(30px);
+  background-color: $primaryDark;
 
   @include media(">=sm") {
     top: rem(50px);
@@ -347,7 +348,7 @@
   h2 {
     font-size: rem(24px);
     font-weight: bold;
-    border-bottom: 1px solid $lightGray;
+    border-bottom: 1px solid $accentDark;
     padding: rem(10px) 0;
     @include media(">=sm") {
       padding: rem(48px) 0 rem(20px);
@@ -369,7 +370,7 @@
 
       a {
         font-weight: normal;
-        color: $primaryDark;
+        color: $accentDark;
         text-decoration: none;
         transition: all 0.3s;
 

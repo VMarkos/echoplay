@@ -10,15 +10,20 @@ tags:
   - netlify
 show_hero: false
 hero: /assets/img/echoplay-hero.jpg
+hero_slogan: "Read | See | Try"
 menu:
   - title: Αρχική
     url: /
   - title: Σχετικά
     url: /about
+  - title: Δράσεις
+    url: /actions
+  - title: Γκαλερί
+    url: /gallery
+  - title: Υπηρεσίες
+    url: /services
   - title: Επικονωνία
     url: /contact
-  - title: Ροή
-    url: /feed.xml
 email: n.chaldeopoulou@gmail.com
 # See: https://disqus.com/
 # disqus_username: disqus_username

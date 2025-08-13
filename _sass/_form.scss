@@ -16,8 +16,8 @@
     color: #333333;
     width: 100%;
     padding: 7px;
-    border: none;
-    border-bottom: 1px solid #ddd;
+    border: 1px solid $accentDark;
+    border-radius: 10px;
     margin-bottom: 10px;
     font-family: inherit;
     font-size: rem(18px);
@@ -43,11 +43,11 @@
     display: block;
     padding: rem(14px) rem(39px) rem(14px) rem(39px);
     color: #ffffff;
-    background: $themeColor;
+    background: $headerBackground;
+    border-radius: 10px;
+    border: none;
     font-size: rem(18px);
     width: 100%;
-    border: 1px solid darken($themeColor, 30%);
-    border-width: 1px 1px 3px;
     margin-top: rem(50px);
     margin-bottom: rem(10px);
     cursor: pointer;

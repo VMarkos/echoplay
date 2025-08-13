@@ -203,7 +203,7 @@
         margin-top: rem(-40px);
         margin-left: rem(-40px);
         border: 2px solid #fff;
-        color: $themeColor;
+        color: $accentLight;
         z-index: 4;
 
         svg {
@@ -216,4 +216,8 @@
   .box-info {
     padding: rem(15px);
   }
+}
+
+.main-page {
+  background-color: $primaryDark;
 }

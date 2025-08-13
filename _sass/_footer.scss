@@ -11,7 +11,7 @@
 footer {
   @include center(rem(800px));
   border-top: 1px solid darken($accentDark, 10%);
-  background: $accentDark;
+  background: $primaryDark;
   padding: rem(20px) rem(25px);
   margin-top: rem(50px);
   margin-bottom: rem(120px);
@@ -23,7 +23,7 @@ footer {
 
   p {
     text-decoration: none;
-    color: $primaryDark;
+    color: $accentDark;
     font-size: rem(16px);
     line-height: rem(25px);
   }
@@ -85,14 +85,13 @@ footer {
     }
   }
 }
-
+/*
 .main-page {
   footer {
     background: $primaryDark;
-    border-top: 1px solid lighten($primaryDark, 10%);
     
     p {
       color: $accentDark;
     }
   }
-}
+}*/

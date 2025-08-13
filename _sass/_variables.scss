@@ -10,7 +10,6 @@ $texts: map-get($theme, texts) !default;
 $backgroundLight: map-get($theme, backgroundLight) !default;
 $accentLight: map-get($theme, accentLight) !default;
 $headerBackground: map-get($theme, headerBackground) !default;
-$siteHero: map-get($theme, siteHero) !default;
 
 // Breakpoints
 $breakpoints: (

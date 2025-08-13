@@ -14,6 +14,7 @@ body.has-push-menu {
   overflow-x: hidden;
   position: relative;
   left: 0;
+  background-color: $primaryDark;
 
   &.push-menu-to-right {
     left: rem(240px);
