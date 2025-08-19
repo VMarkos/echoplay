@@ -3,10 +3,10 @@ title: Echo Play | Έλα να παίξουμε μαζί!
 description: Το Echoplay είναι ένας ιστότοπος όπου βρισκόμαστε για να παίξουμε, να συζητήσουμε και να διασκεδάσουμε! Από τη Νικολέττα Χαλδαιοπούλου.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - παιχνίδι
+  - γονείς
+  - εργοθεραπεία
+  - απόψεις
 show_hero: false
 hero: /assets/img/echoplay-hero.jpg
 hero_slogan: "Read | See | Try"
