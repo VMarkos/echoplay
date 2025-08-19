@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19 17:32:00
+date: 2025-08-19 07:32:04
 layout: post
 title: Πέρα από το παιχνίδι
 subtitle: 'Ο γονιός ως σύντροφος παιχνιδιού'
@@ -8,6 +8,7 @@ description: >-
     παίζουμε μαζί τους. Κι όμως, μετά από ατελείωτες ώρες "παιχνιδιού," αναρωτιέμαι: Τι είναι
     τελικά παιχνίδι;
 image: /assets/img/play-partners-cover.png
+optimized_image: /assets/img/play-partners-cover.png
 category: blog
 tags:
     - blog
