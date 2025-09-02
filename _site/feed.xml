@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Echo Play | Έλα να παίξουμε μαζί!</title>
+    <description>Το Echoplay είναι ένας ιστότοπος όπου βρισκόμαστε για να παίξουμε, να συζητήσουμε και να διασκεδάσουμε! Από τη Νικολέττα Χαλδαιοπούλου.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Aug 2025 18:29:27 +0300</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:29:27 +0300</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Πέρα από το παιχνίδι</title>
+        <description>&lt;p&gt;Ερχόμαστε σε επαφή με τα παιδιά—είτε ως γονείς είτε ως επαγγελματίες—και συχνά πιστεύουμε ότι παίζουμε μαζί τους. Κι όμως, μετά από ατελείωτες ώρες “παιχνιδιού”, αναρωτιέμαι: Τι είναι τελικά παιχνίδι;&lt;/p&gt; &lt;p&gt;Αυτό που εμείς θεωρούμε παιχνίδι, σημαίνει απαραίτητα ότι το αντιλαμβάνεται έτσι και το παιδί; Ή μήπως η οπτική μας διαφέρει τόσο πολύ που χάνουμε την ουσία;&lt;/p&gt; &lt;p&gt;Σε μια εποχή όπου κυριαρχούν οι έτοιμες ιδέες, τα πολλά υλικά και οι συγκεκριμένοι τρόποι παιχνιδιού, είναι κρίσιμο να σκεφτούμε ότι ένα παιχνίδι δεν χρειάζεται απαραίτητα υλικά ή κάποιο καλούπι. Μπορεί να δημιουργηθεί αυθόρμητα, στο εδώ και τώρα, και να περιλαμβάνει ό,τι επιθυμούν οι συμμετέχοντες:...</description>
+        <pubDate>Tue, 19 Aug 2025 10:32:04 +0300</pubDate>
+        <link>/beyond-play-parents-as-partners/</link>
+        <guid isPermaLink="true">/beyond-play-parents-as-partners/</guid>
+        
+        <category>blog</category>
+        
+        <category>παιχνίδι</category>
+        
+        <category>γονείς</category>
+        
+        <category>blog</category>
+      </item>
+    
+  </channel>
+</rss>
