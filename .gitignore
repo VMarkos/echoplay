@@ -1,15 +1,15 @@
-# .idea
-# .DS_Store
-# .sass-cache
-# Gemfile.lock
+.idea
+.DS_Store
+.sass-cache
+Gemfile.lock
 # _site
-# package-json.lock
-# node_modules
-# _drafts
+package-json.lock
+node_modules
+_drafts
 
 # Ignore all
-*
+# *
 
 # But not myself and the _site
-!.gitignore
-!_site
+# !.gitignore
+# !_site
