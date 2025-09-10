@@ -1,0 +1,41 @@
+translations:
+  text:
+    new_post: "Νέα Ανάρτηση"
+    see_also: "Δείτε επίσης"
+    search: "Αναζήτηση"
+    author: "Συντάκτρια"
+    share: "Κοινοποίηση"
+    comments: "Σχόλια"
+  button:
+    read_now: "Διαβάστε τώρα"
+    share_on_twitter: "Κοινοποίηση στο X"
+    share_on_facebook: "Κοινοποίηση στο Facebook"
+  pagination:
+    page: "Σελίδα"
+    of: "από"
+    next_page: "Επόμενη"
+    next_post: "Προηγούμενη"
+  recommendation:
+    text: "Γιατί δε διαβάζετε κάτι τώρα;"
+    back_btn: "Επιστροφή στην κορυφή"
+  error_404:
+    title: "Η σελίδα δεν βρέθηκε :("
+    message: "Λυπούμαστε! Δεν μπορούμε να βρούμε τη σελίδα που ζητήσατε."
+    image_alt: "404 - Η σελίδα δε βρέθηκε"
+  contact:
+    title: "Θέλετε να τα πούμε"
+    subject: "Νέα επικοινωνία!"
+    submit_btn: "Αποστολή"
+    placeholders:
+      name: "Το όνομά σας"
+      email: "Το e-mail σας"
+      message: "Το μήνυμά σας"
+    errors:
+      locale: "gr"
+      empty_name: "Απαιτείται όνομα"
+      empty_email: "Απαιτείται email"
+      invalid_email: "Μη έγκυρο email"
+      empty_message: "Απαιτείται μήνυμα"
+    after_send:
+      title: "Μληνυμα εστάλη!"
+      message: "Ευχαριστούμε για την επικοινωνία! θα απαντήσουμε το συντομότερο δυνατό."
