@@ -7,7 +7,7 @@ description: Σχετικά με εμένα
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Νικολέττα Χαλδαιοπούλου" width="200">
+<img class="img-rounded" src={{ "/assets/img/uploads/profile.jpg" | relative_url }} alt="Νικολέττα Χαλδαιοπούλου" width="200">
 
 # Σχετικά
 
