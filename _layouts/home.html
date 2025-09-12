@@ -17,7 +17,7 @@ layout: main
 <main class="home {% if paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if paginator == nil or paginator.page == 1 %}
 	<section class="hero">
-		<div class="hero-image-container" style="background-image: url({{ site.hero }})">
+		<div class="hero-image-container" style="background-image: url({{ site.hero | relative_url }})">
 			this is some text I would like to be rendered
 		</div>
 		<div class="content">{{ site.hero_slogan }}</div>
