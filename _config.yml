@@ -1,6 +1,6 @@
 # Site Settings
 name: Echo Play
-title: Echo Play | Έλα να παίξουμε μαζί!
+title: Echo Play | Εργοθεραπεία
 description: Το Echoplay είναι ένας ιστότοπος όπου βρισκόμαστε για να παίξουμε, να συζητήσουμε και να διασκεδάσουμε! Από τη Νικολέττα Χαλδαιοπούλου.
 tags:
   - blog
@@ -22,8 +22,10 @@ menu:
     url: /gallery
   - title: Υπηρεσίες
     url: /services
-  - title: Επικονωνία
+  - title: Επικοινωνία
     url: /contact
+  - title: Blog
+    url: /blog
 email: n.chaldeopoulou@gmail.com
 # See: https://disqus.com/
 # disqus_username: disqus_username
@@ -34,12 +36,12 @@ email: n.chaldeopoulou@gmail.com
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# github_username: github_username
+# facebook_username: 
+# twitter_username: twitter_username
+instagram_username: chaldeopoulou
+linkedin_username: nikoletta-chaldeopoulou-4016a6241
+# medium_username: medium_username
 
 
 # Posts Settings
