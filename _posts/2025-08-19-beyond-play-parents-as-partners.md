@@ -7,8 +7,8 @@ description: >-
     Ερχόμαστε σε επαφή με τα παιδιά—είτε ως γονείς είτε ως επαγγελματίες—και συχνά πιστεύουμε ότι
     παίζουμε μαζί τους. Κι όμως, μετά από ατελείωτες ώρες "παιχνιδιού," αναρωτιέμαι: Τι είναι
     τελικά παιχνίδι;
-image: /assets/img/play-partners-cover.png
-optimized_image: /assets/img/play-partners-cover.png
+image: /assets/img/play-partners-cover.webp
+optimized_image: /assets/img/play-partners-cover.webp
 category: blog
 tags:
     - blog
