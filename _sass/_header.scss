@@ -4,8 +4,11 @@ body {
 }
 
 .bar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: $headerBackground;
-  padding: rem(10px) rem(15px);
+  padding: rem(10px) rem(10px);
   position: fixed;
   left: 0;
   width: 100%;
@@ -16,14 +19,18 @@ body {
     padding: rem(15px) rem(0px);
   }
 
+  .header-element {
+    display: flex;
+    align-items: center;
+  }
+
   .logo {
-    display: inline-block;
     margin: 0;
-    height: rem(32px);
-    line-height: rem(32px);
 
     a {
-      display: block;
+      display: flex;
+      align-items: center;
+      gap: 10px;
       color: $accentLight;
       text-decoration: none;
       font-size: rem(32px);
