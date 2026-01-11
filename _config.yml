@@ -22,6 +22,8 @@ menu:
     url: /gallery
   - title: Υπηρεσίες
     url: /services
+  - title: Βιβλιοπροτάσεις
+    url: /book-suggestions
   - title: Επικοινωνία
     url: /contact
   - title: Blog
