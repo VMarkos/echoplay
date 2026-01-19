@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://localhost:4000/404.html</loc>
+            <loc>https://echoplay.gr/404.html</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -10,7 +10,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/about/</loc>
+            <loc>https://echoplay.gr/about/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -18,7 +18,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/blog/</loc>
+            <loc>https://echoplay.gr/category/blog/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -26,7 +26,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/</loc>
+            <loc>https://echoplay.gr/blog/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -34,7 +34,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/book-suggestions/</loc>
+            <loc>https://echoplay.gr/book-suggestions/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -42,7 +42,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/code/</loc>
+            <loc>https://echoplay.gr/category/code/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -50,7 +50,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/contact/</loc>
+            <loc>https://echoplay.gr/contact/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -58,7 +58,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/css/</loc>
+            <loc>https://echoplay.gr/category/css/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -66,7 +66,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/diet/</loc>
+            <loc>https://echoplay.gr/category/diet/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -74,7 +74,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/drawings-gallery/</loc>
+            <loc>https://echoplay.gr/drawings-gallery/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -82,7 +82,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/feed.xml</loc>
+            <loc>https://echoplay.gr/feed.xml</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -90,7 +90,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/</loc>
+            <loc>https://echoplay.gr/gallery/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -98,7 +98,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/life/</loc>
+            <loc>https://echoplay.gr/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -106,7 +106,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/contact/message-sent/</loc>
+            <loc>https://echoplay.gr/category/life/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -114,7 +114,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/music/</loc>
+            <loc>https://echoplay.gr/contact/message-sent/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -122,7 +122,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/assets/css/preview.css</loc>
+            <loc>https://echoplay.gr/category/music/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -130,7 +130,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/search.json</loc>
+            <loc>https://echoplay.gr/assets/css/preview.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -138,7 +138,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/services/</loc>
+            <loc>https://echoplay.gr/search.json</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -146,7 +146,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/sitemap.xml</loc>
+            <loc>https://echoplay.gr/services/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -154,7 +154,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/staff/</loc>
+            <loc>https://echoplay.gr/sitemap.xml</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -162,7 +162,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/assets/css/styles.css</loc>
+            <loc>https://echoplay.gr/staff/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -170,7 +170,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/tags/</loc>
+            <loc>https://echoplay.gr/assets/css/styles.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -178,7 +178,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/tips/</loc>
+            <loc>https://echoplay.gr/tags/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -186,7 +186,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/travel/</loc>
+            <loc>https://echoplay.gr/category/tips/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -194,7 +194,7 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/tutorial/</loc>
+            <loc>https://echoplay.gr/category/travel/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -202,7 +202,15 @@
         </url>
     
         <url>
-            <loc>http://localhost:4000/category/work/</loc>
+            <loc>https://echoplay.gr/category/tutorial/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>https://echoplay.gr/category/work/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -211,21 +219,35 @@
     
     
         <url>
-            <loc>http://localhost:4000/social-model/</loc>
+            <loc>https://echoplay.gr/book-suggestions/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-01-19</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://echoplay.gr/materiality-thesis/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-01-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://echoplay.gr/social-model/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2026-01-08</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/action-possibilities/</loc>
+            <loc>https://echoplay.gr/action-possibilities/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2025-12-28</lastmod>
         </url>
     
         <url>
-            <loc>http://localhost:4000/beyond-play-parents-as-partners/</loc>
+            <loc>https://echoplay.gr/beyond-play-parents-as-partners/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2025-08-19</lastmod>
@@ -233,7 +255,7 @@
     
     
         <url>
-            <loc>http://localhost:4000/authors/nchaldeopoulou/</loc>
+            <loc>https://echoplay.gr/authors/nchaldeopoulou/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>

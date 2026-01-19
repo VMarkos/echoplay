@@ -3,6 +3,22 @@
   
   
     {
+      "title"    : "Βιβλιοπροτάσεις και Μικρές Προσωπικές Συναντήσεις",
+      "tags"     : "blog and βιβλιοπροτάσεις",
+      "categories" : "blog",
+      "url"      : "/book-suggestions/",
+      "date"     : "01/19/2026"
+    } ,
+  
+    {
+      "title"    : "Όταν η ύλη καθοδηγεί την πράξη",
+      "tags"     : "blog and παιχνίδι",
+      "categories" : "blog",
+      "url"      : "/materiality-thesis/",
+      "date"     : "01/15/2026"
+    } ,
+  
+    {
       "title"    : "Το Κοινωνικό Μοντέλο της Αναπηρίας",
       "tags"     : "blog, παιχνίδι, and γονείς",
       "categories" : "blog",

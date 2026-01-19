@@ -3,18 +3,46 @@
   <channel>
     <title>Echo Play | Εργοθεραπεία</title>
     <description>Το Echoplay είναι ένας ιστότοπος όπου βρισκόμαστε για να παίξουμε, να συζητήσουμε και να διασκεδάσουμε! Από τη Νικολέττα Χαλδαιοπούλου.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Jan 2026 17:01:18 +0200</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2026 17:01:18 +0200</lastBuildDate>
+    <link>https://echoplay.gr/</link>
+    <atom:link href="https://echoplay.gr/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Jan 2026 12:35:34 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 12:35:34 +0200</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Βιβλιοπροτάσεις και Μικρές Προσωπικές Συναντήσεις</title>
+        <description>&lt;p&gt;Αυτό το site είναι, για μένα, ένας τόπος συνάντησης. Συνάντησης κάποιων από τα ενδιαφέροντά μου, αλλά κυρίως συνάντησης με όσους και όσες διαβάζουν όσα μοιράζομαι εδώ. Σήμερα, λοιπόν, αποφάσισα να μοιραστώ κάποιες βιβλιοπροτάσεις. Όχι μόνο ως τίτλους, αλλά και ως εμπειρίες· ως αναγνώσεις που άφησαν μέσα μου σκέψεις και συναισθήματα.&lt;/p&gt; &lt;h2 id=&quot;ο-χορός-των-μεγάλων-μητέρων-clarissa-pinkola-estés&quot;&gt;Ο χορός των μεγάλων μητέρων – Clarissa Pinkola Estés&lt;/h2&gt; &lt;p&gt;Το πρώτο βιβλίο που μου έρχεται στο μυαλό είναι Ο χορός των μεγάλων μητέρων της Clarissa Pinkola Estés. Είναι από εκείνα τα βιβλία που θα ήθελα να λαμβάνω ως δώρο — και γι’ αυτό το επιλέγω συχνά ως δώρο για...</description>
+        <pubDate>Mon, 19 Jan 2026 10:00:05 +0200</pubDate>
+        <link>https://echoplay.gr/book-suggestions/</link>
+        <guid isPermaLink="true">https://echoplay.gr/book-suggestions/</guid>
+        
+        <category>blog</category>
+        
+        <category>βιβλιοπροτάσεις</category>
+        
+        <category>blog</category>
+      </item>
+    
+      <item>
+        <title>Όταν η ύλη καθοδηγεί την πράξη</title>
+        <description>&lt;h2 id=&quot;μορφή-σύσταση-και-αντίληψη-δράσης-στη-νευροδιαφορετικότητα&quot;&gt;Μορφή, σύσταση και αντίληψη δράσης στη νευροδιαφορετικότητα&lt;/h2&gt; &lt;p&gt;Η ανθρώπινη αλληλεπίδραση με τον κόσμο δεν ξεκινά από αφηρημένες έννοιες, αλλά από την άμεση αισθητηριακή και κινητική εμπλοκή με τα αντικείμενα. Πριν ακόμη ενεργοποιηθούν οι λεκτικές ή εννοιολογικές αναπαραστάσεις, η μορφή, η υφή, το βάρος και η υλικότητα των αντικειμένων οργανώνουν τον τρόπο με τον οποίο αυτά γίνονται αντιληπτά και χρησιμοποιούνται. Στο πλαίσιο της ενσωματωμένης νόησης (embodied cognition), η γνώση θεωρείται άρρηκτα συνδεδεμένη με τη δράση, καθώς οι σημασιολογικές αναπαραστάσεις εδράζονται σε αισθητηριακές και κινητικές εμπειρίες.&lt;/p&gt; &lt;h2 id=&quot;affordances-από-την-αντίληψη-στη-δράση&quot;&gt;Affordances: από την αντίληψη στη δράση&lt;/h2&gt; &lt;p&gt;Η έννοια των affordances περιγράφει τις δυνατότητες για...</description>
+        <pubDate>Thu, 15 Jan 2026 22:26:06 +0200</pubDate>
+        <link>https://echoplay.gr/materiality-thesis/</link>
+        <guid isPermaLink="true">https://echoplay.gr/materiality-thesis/</guid>
+        
+        <category>blog</category>
+        
+        <category>παιχνίδι</category>
+        
+        <category>blog</category>
+      </item>
     
       <item>
         <title>Το Κοινωνικό Μοντέλο της Αναπηρίας</title>
         <description>&lt;p&gt;Για πολλά χρόνια, η αναπηρία προσεγγιζόταν κυρίως μέσα από το ιατρικό μοντέλο, το οποίο την αντιλαμβανόταν ως ένα ατομικό πρόβλημα που έπρεπε να «θεραπευτεί», να διορθωθεί ή να προσαρμοστεί. Αυτή η οπτική, αν και συνέβαλε στην ανάπτυξη παρεμβάσεων και υποστηρικτικών υπηρεσιών, συχνά περιόριζε την αναπηρία αποκλειστικά στο σώμα ή στο άτομο.&lt;/p&gt; &lt;p&gt;Το κοινωνικό μοντέλο της αναπηρίας έρχεται να μετατοπίσει ριζικά αυτή τη θεώρηση. Προτείνει ότι η αναπηρία δεν προκύπτει πρωτίστως από τη δυσλειτουργία, αλλά από τα κοινωνικά, περιβαλλοντικά και στάσιμα εμπόδια που αποκλείουν τη συμμετοχή των ατόμων στην καθημερινή ζωή.&lt;/p&gt; &lt;h2 id=&quot;τι-είναι-το-κοινωνικό-μοντέλο-της-αναπηρίας&quot;&gt;Τι είναι το κοινωνικό μοντέλο της αναπηρίας&lt;/h2&gt; &lt;p&gt;Το κοινωνικό...</description>
         <pubDate>Thu, 08 Jan 2026 14:26:17 +0200</pubDate>
-        <link>http://localhost:4000/social-model/</link>
-        <guid isPermaLink="true">http://localhost:4000/social-model/</guid>
+        <link>https://echoplay.gr/social-model/</link>
+        <guid isPermaLink="true">https://echoplay.gr/social-model/</guid>
         
         <category>blog</category>
         
@@ -29,8 +57,8 @@
         <title>Δυνατότητες Δράσης και Συμπεριληπτικός Σχεδιασμός</title>
         <description>&lt;p&gt;Τι κάνει έναν χώρο φιλόξενο;&lt;/p&gt; &lt;p&gt;Δεν είναι μόνο η αισθητική του ή η λειτουργικότητά του. Είναι το αν μας επιτρέπει να δράσουμε, να κινηθούμε, να ρυθμιστούμε και να νιώσουμε ότι ανήκουμε.&lt;/p&gt; &lt;p&gt;Τα τελευταία χρόνια, η έννοια των δυνατοτήτων δράσης (affordances) έχει αποκτήσει κεντρική σημασία στη συζήτηση γύρω από τη σχέση σώματος και περιβάλλοντος. Η έννοια εισήχθη από τον ψυχολόγο James J. Gibson και περιγράφει τις δυνατότητες για δράση που προσφέρει το περιβάλλον σε σχέση με το σώμα που το κατοικεί.&lt;/p&gt; &lt;p&gt;Μια καρέκλα, για παράδειγμα, δεν «είναι» απλώς καρέκλα:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;για έναν ενήλικα προσφέρει τη δυνατότητα να καθίσει,&lt;/li&gt; &lt;li&gt;για ένα παιδί...</description>
         <pubDate>Sun, 28 Dec 2025 10:24:19 +0200</pubDate>
-        <link>http://localhost:4000/action-possibilities/</link>
-        <guid isPermaLink="true">http://localhost:4000/action-possibilities/</guid>
+        <link>https://echoplay.gr/action-possibilities/</link>
+        <guid isPermaLink="true">https://echoplay.gr/action-possibilities/</guid>
         
         <category>blog</category>
         
@@ -45,8 +73,8 @@
         <title>Πέρα από το παιχνίδι</title>
         <description>&lt;p&gt;Ερχόμαστε σε επαφή με τα παιδιά—είτε ως γονείς είτε ως επαγγελματίες—και συχνά πιστεύουμε ότι παίζουμε μαζί τους. Κι όμως, μετά από ατελείωτες ώρες “παιχνιδιού”, αναρωτιέμαι: Τι είναι τελικά παιχνίδι;&lt;/p&gt; &lt;p&gt;Αυτό που εμείς θεωρούμε παιχνίδι, σημαίνει απαραίτητα ότι το αντιλαμβάνεται έτσι και το παιδί; Ή μήπως η οπτική μας διαφέρει τόσο πολύ που χάνουμε την ουσία;&lt;/p&gt; &lt;p&gt;Σε μια εποχή όπου κυριαρχούν οι έτοιμες ιδέες, τα πολλά υλικά και οι συγκεκριμένοι τρόποι παιχνιδιού, είναι κρίσιμο να σκεφτούμε ότι ένα παιχνίδι δεν χρειάζεται απαραίτητα υλικά ή κάποιο καλούπι. Μπορεί να δημιουργηθεί αυθόρμητα, στο εδώ και τώρα, και να περιλαμβάνει ό,τι επιθυμούν οι συμμετέχοντες:...</description>
         <pubDate>Tue, 19 Aug 2025 10:32:04 +0300</pubDate>
-        <link>http://localhost:4000/beyond-play-parents-as-partners/</link>
-        <guid isPermaLink="true">http://localhost:4000/beyond-play-parents-as-partners/</guid>
+        <link>https://echoplay.gr/beyond-play-parents-as-partners/</link>
+        <guid isPermaLink="true">https://echoplay.gr/beyond-play-parents-as-partners/</guid>
         
         <category>blog</category>
         
