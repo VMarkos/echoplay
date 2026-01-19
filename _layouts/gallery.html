@@ -1,9 +1,15 @@
 ---
-layout: default
+layout: main
 ---
 
-<div class="gallery">
-    {% for image in assests.img.gallery %}
-        
+<ul class="gallery">
+    {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains 'img/gallery'" %}
+    {% for image in gallery_images %}
+        <li class="gallery-image-container">
+            <img
+                src="{{ site.baseurl }}{{ image.path }}"
+                alt="Gallery Image"
+            />
+        </li>
     {% endfor %}
-</div>
+</ul>

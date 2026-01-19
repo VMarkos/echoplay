@@ -8,6 +8,10 @@ layout: main
     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
 {% endif %}
 
+{% if page.tag %}
+    {% assign posts = posts | where_exp: "post", "post.tags contains page.tag" %}
+{% endif %}
+
 <main class="home" role="main">
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
