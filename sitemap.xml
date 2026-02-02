@@ -219,6 +219,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/child-book-suggestions-01/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-01-30</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/book-suggestions/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
