@@ -219,6 +219,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/messy-play-promo/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-02-02</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/child-book-suggestions-01/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
