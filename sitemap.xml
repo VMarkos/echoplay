@@ -219,6 +219,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/MSc-Thesis-Semantic-Organization/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-04-26</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/messy-play-promo/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
