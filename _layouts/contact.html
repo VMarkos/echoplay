@@ -2,6 +2,43 @@
 layout: page
 ---
 
+<script>
+const FORM_URL = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSddk9iLT48b8kM3ti_diiGDLtLJD62Ozu4k7qwixIrFeBYeYw/formResponse";
+
+function onFormSubmit(e) {
+    e.preventDefault();
+    const formData = new FormData();
+    const name = document.getElementById("name").value;
+    const email = document.getElementById("email").value;
+    const message = document.getElementById("message").value;
+    formData.append("entry.1407140640", name);
+    formData.append("entry.356516387", email);
+    formData.append("entry.1411604711", message);
+    fetch(FORM_URL, {
+        method: "POST",
+        mode: "no-cors",
+        header: {
+            'Content-Type': 'application/json'
+        },
+        body: formData
+    })
+    .then(data => {
+        console.log("Submitted");
+    })
+    .catch(e => console.log(e));
+}
+
+
+function onWindowLoad() {
+    const form = document.getElementById("form");
+    form.addEventListener("submit", onFormSubmit);
+}
+
+
+window.addEventListener("load", onWindowLoad);
+    
+</script>
+
 {% if site.email or site.formspree_form_id %}
 
 <style type="text/css" media="screen">
@@ -20,25 +57,25 @@ layout: page
   <h2>{{ site.translations.contact.title | default: "Talk to me" }}</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSddk9iLT48b8kM3ti_diiGDLtLJD62Ozu4k7qwixIrFeBYeYw/formResponse" target="_blank">
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
 
-        <input type="text" name="name" placeholder="{{ site.translations.contact.placeholders.name | default: 'Your name' }}" v-validate="'required'"
+        <input id="name" type="text" name="name" placeholder="{{ site.translations.contact.placeholders.name | default: 'Your name' }}" v-validate="'required'"
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="email" placeholder="{{ site.translations.contact.placeholders.email | default: 'Your email' }}" v-validate="'required|email'"
+        <input id="email" type="text" name="email" placeholder="{{ site.translations.contact.placeholders.email | default: 'Your email' }}" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Your message' }}" v-validate="'required'"
+        <textarea id="message" name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Your message' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit">{{ site.translations.contact.submit_btn | default:  "Send" }}</button>
+        <button type="submit" onclick="window.location.href='/';">{{ site.translations.contact.submit_btn | default:  "Send" }}</button>
       </fieldset>
     </form>
   </div>
