@@ -57,7 +57,6 @@
     @include mainFont(300);
   }
 
-  p,
   h1,
   h2,
   h3,
@@ -69,6 +68,23 @@
   iframe {
     @include center(rem(800px));
     @include mainFont(400);
+    font-size: rem(17px);
+    line-height: rem(30px);
+    letter-spacing: 0.025rem;
+    padding: 0 rem(20px);
+    margin: rem(20px) auto 0;
+
+    @include media(">=sm") {
+      font-size: rem(20px);
+      line-height: rem(40px);
+      margin: rem(29px) auto 0;
+    }
+  }
+
+
+  p {
+    @include center(rem(800px));
+    @include pFont(400);
     font-size: rem(17px);
     line-height: rem(30px);
     letter-spacing: 0.025rem;
