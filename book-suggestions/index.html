@@ -74,6 +74,17 @@
     <link rel="canonical" href="https://echoplay.gr/book-suggestions/">
     <link rel="alternate" type="application/rss+xml" title="Echo Play | Εργοθεραπεία" href="https://echoplay.gr/feed.xml" />
 
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+
     <!-- Include extra styles -->
     
 
@@ -135,6 +146,12 @@
     
       <li>
         <a href="https://echoplay.gr/about">Σχετικά</a>
+      </li>
+    
+  
+    
+      <li>
+        <a href="https://echoplay.gr/place">Ο Χώρος</a>
       </li>
     
   
@@ -251,15 +268,6 @@ January 19, 2026
                         
                         
                             <li>
-                                <a href="/materiality-thesis/">
-                                    
-                                        <img src="/assets/img/sitting-on-a-chair.jpg">
-                                    
-                                    <h3>Όταν η ύλη καθοδηγεί την πράξη</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
                                 <a href="/beyond-play-parents-as-partners/">
                                     
                                         <img src="/assets/img/play-partners-cover.webp">
@@ -269,11 +277,20 @@ January 19, 2026
                             </li>
                         
                             <li>
-                                <a href="/child-book-suggestions-01/">
+                                <a href="/MSc-Thesis-Semantic-Organization/">
                                     
-                                        <img src="/assets/img/book-suggestions-hero-002.png">
+                                        <img src="/assets/img/vollon_items.jpg">
                                     
-                                    <h3>Ώρα για παιδικά παραμύθια</h3>
+                                    <h3>ICOTH 2026 - Από τα Αντικείμενα στις Έννοιες: Πώς Οργανώνουν τον Κόσμο τα Νευροδιαφορετικά Παιδιά</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/social-model/">
+                                    
+                                        <img src="/assets/img/schiele-social-model.jpg">
+                                    
+                                    <h3>Το Κοινωνικό Μοντέλο της Αναπηρίας</h3>
                                 </a>
                             </li>
                         
@@ -343,24 +360,26 @@ January 19, 2026
         
 
         <footer>
-    <p>
-      
-      
-      
-      
-      
-        <a href="https://www.instagram.com/chaldeopoulou" title="Instagram">
-          <svg><use xlink:href="#icon-instagram"></use></svg>
-        </a>
-      
-      
-        <a href="https://www.linkedin.com/in/nikoletta-chaldeopoulou-4016a6241" title="LinkedIn">
-          <svg><use xlink:href="#icon-linkedin"></use></svg>
-        </a>
-      
-    </p>
+    <div class="footer-grid">
+        <div>
+            <p>
+              
+              
+              
+              
+              
+                <a href="https://www.instagram.com/chaldeopoulou" title="Instagram">
+                  <svg><use xlink:href="#icon-instagram"></use></svg>
+                </a>
+              
+              
+                <a href="https://www.linkedin.com/in/nikoletta-chaldeopoulou-4016a6241" title="LinkedIn">
+                  <svg><use xlink:href="#icon-linkedin"></use></svg>
+                </a>
+              
+            </p>
 
-    <ul>
+            <ul>
   
     
       <li>
@@ -371,6 +390,12 @@ January 19, 2026
     
       <li>
         <a href="https://echoplay.gr/about">Σχετικά</a>
+      </li>
+    
+  
+    
+      <li>
+        <a href="https://echoplay.gr/place">Ο Χώρος</a>
       </li>
     
   
@@ -412,9 +437,18 @@ January 19, 2026
   
 </ul>
 
-
+        </div>
+        <div>
+            <div id="map"></div>
+            <ul>
+                <li>Γυμναστηρίου 55 &amp; Ψαρρών 16, 17237, Δάφνη</li>
+                <li>+30 6980 895594</li>
+                <li>n.chaldeopoulou@gmail.com</li>
+            </ul>
+        </div>
+    </div>
     <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
+      Το <span>echoplay.gr</span> σχεδιάστηκε με <svg class="love"><use xlink:href="#icon-heart"></use></svg> από το <a href="https://aftermaths.gr" target="_blank" class="creator">aftermaths.gr</a>
     </p>
 </footer>
 
@@ -444,6 +478,8 @@ January 19, 2026
   ]
 }
 </script>
+
+<script type="text/javascript" src="/assets/js/map.js"></script>
 
 <!-- Include the script that allows Netlify CMS login -->
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
