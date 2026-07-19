@@ -4,4 +4,5 @@ layout: gallery
 title: Γκαλερί
 subtitle: Συλλογή έργων που φτιάχνουμε στις θεραπείες μας!
 permalink: /gallery/
+gallery_path: img/gallery
 ---

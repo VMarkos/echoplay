@@ -85,6 +85,21 @@ footer {
     }
   }
 }
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  ul {
+    color: $accentDark;
+  }
+}
+
+
+/* Map Utils */
+#map {
+  height: 300px;
+}
 /*
 .main-page {
   footer {

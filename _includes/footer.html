@@ -1,41 +1,52 @@
 <footer>
-    <p>
-      {% if site.github_username %}
-        <a href="https://github.com/{{ site.github_username }}" title="Github">
-          <svg><use xlink:href="#icon-github"></use></svg>
-        </a>
-      {% endif %}
-      {% if site.facebook_username %}
-        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-          <svg><use xlink:href="#icon-facebook"></use></svg>
-        </a>
-      {% endif %}
-      {% if site.twitter_username %}
-        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-          <svg><use xlink:href="#icon-twitter"></use></svg>
-        </a>
-      {% endif %}
-      {% if site.medium_username %}
-        <a href="https://medium.com/@{{ site.medium_username }}" title="Medium">
-          <svg><use xlink:href="#icon-medium"></use></svg>
-        </a>
-      {% endif %}
-      {% if site.instagram_username %}
-        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
-          <svg><use xlink:href="#icon-instagram"></use></svg>
-        </a>
-      {% endif %}
-      {% if site.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
-          <svg><use xlink:href="#icon-linkedin"></use></svg>
-        </a>
-      {% endif %}
-    </p>
+    <div class="footer-grid">
+        <div>
+            <p>
+              {% if site.github_username %}
+                <a href="https://github.com/{{ site.github_username }}" title="Github">
+                  <svg><use xlink:href="#icon-github"></use></svg>
+                </a>
+              {% endif %}
+              {% if site.facebook_username %}
+                <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+                  <svg><use xlink:href="#icon-facebook"></use></svg>
+                </a>
+              {% endif %}
+              {% if site.twitter_username %}
+                <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+                  <svg><use xlink:href="#icon-twitter"></use></svg>
+                </a>
+              {% endif %}
+              {% if site.medium_username %}
+                <a href="https://medium.com/@{{ site.medium_username }}" title="Medium">
+                  <svg><use xlink:href="#icon-medium"></use></svg>
+                </a>
+              {% endif %}
+              {% if site.instagram_username %}
+                <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+                  <svg><use xlink:href="#icon-instagram"></use></svg>
+                </a>
+              {% endif %}
+              {% if site.linkedin_username %}
+                <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+                  <svg><use xlink:href="#icon-linkedin"></use></svg>
+                </a>
+              {% endif %}
+            </p>
 
-    {% include links.html %}
-
+            {% include links.html %}
+        </div>
+        <div>
+            <div id="map"></div>
+            <ul>
+                <li>Γυμναστηρίου 55 &amp; Ψαρρών 16, 17237, Δάφνη</li>
+                <li>+30 6980 895594</li>
+                <li>n.chaldeopoulou@gmail.com</li>
+            </ul>
+        </div>
+    </div>
     <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
+      Το <span>echoplay.gr</span> σχεδιάστηκε με <svg class="love"><use xlink:href="#icon-heart"></use></svg> από το <a href="https://aftermaths.gr" target="_blank" class="creator">aftermaths.gr</a>
     </p>
 </footer>
 
@@ -77,6 +88,8 @@
   ]
 }
 </script>
+
+<script type="text/javascript" src="/assets/js/map.js"></script>
 
 <!-- Include the script that allows Netlify CMS login -->
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

@@ -2,8 +2,9 @@
 layout: main
 ---
 
+
 <ul class="gallery">
-    {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains 'img/gallery'" %}
+    {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains page.gallery_path" %}
     {% for image in gallery_images %}
         <li class="gallery-image-container">
             <img
