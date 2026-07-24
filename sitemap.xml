@@ -227,6 +227,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/real-parent-child-connection/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-07-23</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/MSc-Thesis-Semantic-Organization/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
