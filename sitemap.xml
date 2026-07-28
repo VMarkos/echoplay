@@ -227,6 +227,20 @@
     
     
         <url>
+            <loc>https://echoplay.gr/understanding-sensory-needs/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-07-28</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://echoplay.gr/from-coregulation-to-self-regulation/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-07-28</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/cooperation-impact/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
