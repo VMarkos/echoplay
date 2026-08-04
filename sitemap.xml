@@ -227,6 +227,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/book-suggestions/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-08-04</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/stimming-and-masking/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
