@@ -35,7 +35,7 @@ function onWindowLoad() {
 }
 
 
-window.addEventListener("load", onWindowLoad);
+// window.addEventListener("load", onWindowLoad);
     
 </script>
 
@@ -68,7 +68,7 @@ window.addEventListener("load", onWindowLoad);
   {{ content }}
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSddk9iLT48b8kM3ti_diiGDLtLJD62Ozu4k7qwixIrFeBYeYw/formResponse" target="_blank">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/f/xppzwnon" target="_blank">
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
