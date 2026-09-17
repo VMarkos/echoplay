@@ -230,6 +230,13 @@
             <loc>https://echoplay.gr/book-suggestions/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
+            <lastmod>2026-09-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://echoplay.gr/book-suggestions/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
             <lastmod>2026-09-14</lastmod>
         </url>
     
