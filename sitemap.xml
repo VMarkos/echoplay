@@ -18,6 +18,14 @@
         </url>
     
         <url>
+            <loc>https://echoplay.gr/attachment-parenting/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/category/blog/</loc>
             
                 <changefreq>monthly</changefreq>
