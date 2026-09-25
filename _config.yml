@@ -25,6 +25,8 @@ menu:
     url: /gallery
   - title: Υπηρεσίες
     url: /services
+  - title: Attachment Parenting
+    url: /attachment-parenting
   - title: Βιβλιοπροτάσεις
     url: /book-suggestions
   - title: Επικοινωνία
