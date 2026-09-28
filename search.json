@@ -3,10 +3,18 @@
   
   
     {
+      "title"    : "Βιβλιοπροτάσεις",
+      "tags"     : "blog and βιβλιοπροτάσεις",
+      "categories" : "blog",
+      "url"      : "/book-suggestions-04/",
+      "date"     : "09/28/2026"
+    } ,
+  
+    {
       "title"    : "Βιβλία για το σώμα, το σεξ και τη συναίνεση",
       "tags"     : "blog and βιβλιοπροτάσεις",
       "categories" : "blog",
-      "url"      : "/book-suggestions/",
+      "url"      : "/book-suggestions-01/",
       "date"     : "09/17/2026"
     } ,
   
@@ -14,7 +22,7 @@
       "title"    : "Βιβλιοπροτάσεις για τον Σεπτέμβρη",
       "tags"     : "blog and βιβλιοπροτάσεις",
       "categories" : "blog",
-      "url"      : "/book-suggestions/",
+      "url"      : "/book-suggestions-03/",
       "date"     : "09/14/2026"
     } ,
   
@@ -46,7 +54,7 @@
       "title"    : "Αγαπημένες Βιβλιοπροτάσεις για τις Ημέρες των Διακοπών",
       "tags"     : "blog and βιβλιοπροτάσεις",
       "categories" : "blog",
-      "url"      : "/book-suggestions/",
+      "url"      : "/book-suggestions-02/",
       "date"     : "08/04/2026"
     } ,
   
@@ -126,7 +134,7 @@
       "title"    : "Βιβλιοπροτάσεις και Μικρές Προσωπικές Συναντήσεις",
       "tags"     : "blog and βιβλιοπροτάσεις",
       "categories" : "blog",
-      "url"      : "/book-suggestions/",
+      "url"      : "/book-suggestions-00/",
       "date"     : "01/19/2026"
     } ,
   
