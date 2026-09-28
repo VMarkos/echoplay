@@ -235,6 +235,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/child-participation/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-09-28</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/book-suggestions-04/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
