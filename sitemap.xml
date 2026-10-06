@@ -235,6 +235,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/affordance-msc/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-10-06</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/child-participation/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
