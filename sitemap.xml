@@ -235,6 +235,13 @@
     
     
         <url>
+            <loc>https://echoplay.gr/play-should-be-useful/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2026-10-13</lastmod>
+        </url>
+    
+        <url>
             <loc>https://echoplay.gr/affordance-msc/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
