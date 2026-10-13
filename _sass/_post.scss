@@ -281,7 +281,7 @@
   }
 
   table {
-    @include mainFont(400);
+    /*@include mainFont(400);*/
     font-size: rem(17px);
     line-height: rem(35px);
     letter-spacing: 0.025rem;
